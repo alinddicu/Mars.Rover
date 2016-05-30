@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NFluent;
-
-namespace RoverSurMars
+﻿namespace Mars.Rover
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
+    using NFluent;
+
     [TestClass]
     public class UnitTest1
     {
